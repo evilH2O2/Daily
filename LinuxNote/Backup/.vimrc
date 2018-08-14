@@ -10,3 +10,7 @@ set autoindent
 set hlsearch
 "输入关键字的时候实时高亮显示
 set incsearch
+"在状态行中显示（部分）命令
+set showcmd
+"使用鼠标
+set mouse=a

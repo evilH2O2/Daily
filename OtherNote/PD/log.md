@@ -13,3 +13,7 @@
 <br>
 
 > `[Opera] 20:18:07:31:09::55` && `DW(2(1)7(4)3(1))12063312UP(9(1)2(1))` {val} `09::58` || `3f4c7d3e8531f4e41cd6ba4245cebfb6` or `8531f4e416e6ba42` # `ssfslsjelf`
+
+<br>
+
+>`[Twitter]` `DW(2(1)7(4)3(1))12063312EN(*9(2))` {val} `3f4c7d3e8531f4e41cd6ba4245cebfb6` || {Google}
